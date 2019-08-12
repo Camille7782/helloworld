@@ -2,3 +2,4 @@
 解决冲突
 git merge fast forward
 bug appear on branch issue-01
+bugs appear again
